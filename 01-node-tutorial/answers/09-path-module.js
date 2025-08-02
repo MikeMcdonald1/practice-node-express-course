@@ -1,3 +1,4 @@
+const { log } = require("console");
 const path = require("path");
 
 console.log(path.sep);
